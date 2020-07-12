@@ -1,0 +1,1 @@
+Promisified API for FileReader
